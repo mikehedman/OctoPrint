@@ -281,7 +281,7 @@
 
    .. code-block:: javascript
 
-      OctoPrint.printer.jog({"x", 10.0});
+      OctoPrint.printer.jog({"x": 10.0});
 
    Jog Y by -5mm and Z by 0.2mm.
 
